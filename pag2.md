@@ -4,9 +4,6 @@
 * Historial de commits:
 >>**`git log`**
 
-<<<<<<< HEAD
-
-=======
 ###Comandos Básicos II
 
 * Ayuda del listado anterior:
@@ -15,7 +12,7 @@
 * Listar los N commits más recientes:
 >>**`git log -n N`**
 
->Por ejemplo, "**`git log -n 5**" lista los 5 commits más recientes.
+>Por ejemplo, "**`git log -n 5`**" lista los 5 commits más recientes.
 
 * Listar los commits desde una fecha:
 >>**`git log --since=2018-09-18`**
@@ -25,4 +22,4 @@
 
 * Ver cambios en el directorio:  
 >>**`git status`**
->>>>>>> i72gocao_1
+
